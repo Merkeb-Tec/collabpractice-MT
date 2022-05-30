@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: rgb(197, 209, 29);
+    height: min-content;
+}
+nav,a{
+    color: bisque;
+     margin: 20px;
+     padding: 10px;
+    
+    
+}
+.box1{
+    background-color: aqua;
+    height: 500px;
+    text-align: center;
+    font-style: italic;
+    
+}
+.box2{
+    background-color: blueviolet;
+    text-align: center;
+    font-style: italic;
+    
+}
