@@ -26,3 +26,16 @@ nav,a{
     font-style: italic;
     
 }
+*{box-sizing: border-box;}
+
+.hero{
+    border: 2px solid black;
+    height: 800px;
+  background-image: url(../img/pesan.jpg);
+  background-position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+
+
+}
